@@ -44,7 +44,7 @@ You will evaluate your implementation on two streaming datasets characterized by
 
 The **complete description of the datasets** is available [here](https://polimi365-my.sharepoint.com/:b:/g/personal/10780444_polimi_it/IQAZ8E8JZMobRpkBEq91srZqATZrL9RkyQN0jeUVscWcD1A?e=HX9tjE). 
 
-They are associated with the weather and air pollution domains. Features are already standardized. 8 different binary classification labels are engineered by comparing current values (of a hidden feature, which is not given) to previous median or minimum values within a specific temporal window. Each classification function corresponds to a specific concept. For instance, one concept may assign 1 if the current avalue has increased since the previous timestamp, and 0 otherwise. Another task may assign 1 if the current value is greater than the mean of the previous 10, … and so on. 
+They are associated with the weather and air pollution domains. Features are already standardized. 8 different binary classification labels are engineered by comparing current values (of a hidden feature, which is not given) to previous median or minimum values within a specific temporal window. Each classification function corresponds to a specific concept. For instance, one concept may assign 1 if the current value has increased since the previous timestamp, and 0 otherwise. Another task may assign 1 if the current value is greater than the mean of the previous 10, … and so on. 
 
 Concept drifts in this case are **real** and **abrupt**.
 
