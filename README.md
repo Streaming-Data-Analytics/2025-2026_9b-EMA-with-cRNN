@@ -8,7 +8,6 @@ Student: **Susanna Lo Cascio**
 This project proposes an original extension of the concepts introduced in the [2023 paper](https://arxiv.org/pdf/2306.16817) *"Improving Online Continual Learning Performance and Stability with Temporal Ensembles"*. 
 
 While the original paper focuses on mitigating the stability gap in convolutional architectures for image data, this project explores a different hypothesis tailored for **streaming data with explicit temporal dependencies**. 
-
 Your objective is to implement **Continuous LSTM (cLSTM)** and **Continuous GRU (cGRU)** backbones, and investigate whether maintaining an Exponential Moving Average (EMA) of the model weights helps these recurrent architectures **converge faster** to new temporal patterns immediately after a concept drift. You will evaluate these models on the **Weather** and **AirQuality** streaming datasets.
 
 
@@ -71,3 +70,4 @@ You must track the **Rolling Cohen's Kappa** over time. **Crucially**, the rolli
 * Add your name and surname into the Readme file;
 * Add a `requirements.txt` file for code reproducibility;
 * Commit your changes to your local repository and push them online.
+
