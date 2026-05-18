@@ -3,6 +3,7 @@
 Optional project of the [Streaming Data Analytics](https://emanueledellavalle.org/teaching/streaming-data-analytics-2025-26/) course provided by Politecnico di Milano.
 
 Student: **Susanna Lo Cascio**
+
 Presentation link: https://canva.link/mtam7msloizdsvg
 
 # Brief Description
