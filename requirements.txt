@@ -1,5 +1,10 @@
-torch
 numpy
 pandas
-
-#TODO: update during experiments
+torch
+scikit-learn
+matplotlib
+scipy
+tqdm
+tabulate
+jupyter
+ipykernel
