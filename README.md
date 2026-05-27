@@ -4,6 +4,8 @@ Optional project of the [Streaming Data Analytics](https://emanueledellavalle.or
 
 Student: **Susanna Lo Cascio**
 
+Presentation link: https://canva.link/mtam7msloizdsvg
+
 # Brief Description
 This project proposes an original extension of the concepts introduced in the [2023 paper](https://arxiv.org/pdf/2306.16817) *"Improving Online Continual Learning Performance and Stability with Temporal Ensembles"*. 
 
